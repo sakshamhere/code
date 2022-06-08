@@ -3,7 +3,6 @@ Problem Statement
 Given the following JSON data - data.json
 
 
-as the input with weight and height parameters of a person, we have to perform the following:
 1) Calculate the BMI (Body Mass Index) using Formula 1, BMI Category and Health risk
 from Table 1 of the person and add them as 3 new columns
 2) Count the total number of overweight people using ranges in the column BMI Category
